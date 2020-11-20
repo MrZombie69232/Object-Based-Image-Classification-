@@ -1,4 +1,4 @@
-# Object-Based-Image-Classification-
+# Geographic Object-Based-Image-Analysis-
 This repository contains code for Geographic Object Based Image Analysis in Python (GeoBIA). 
 You need to have any IDE to perform this task. You can use any PyCharm Anaconda or Atom 
 You need to have following libraries installed :
